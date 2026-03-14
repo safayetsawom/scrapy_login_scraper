@@ -14,3 +14,5 @@ Python · Scrapy · CSS Selectors · JSON
 ## How To Run
 pip install scrapy
 scrapy crawl login_quotes
+
+Btw - delete quotes.db and logged_in_quotes.csv and quotes_clean.json because the codes in the pipeline will create them. 
